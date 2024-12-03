@@ -12,8 +12,8 @@ This page features:
 1. [Data Projects](#1-data-projects)
     - [Data Dummy 1](#data-dummy-1) - one-line description
 
-2. [Other Projects](#2-other-projects)
-    - [Other Dummy 1](#other-dummy-1) - one-line description
+<!-- disabled 2. [Other Projects](#2-other-projects)
+    - [Other Dummy 1](#other-dummy-1) - one-line description disabled -->
 
 ---
 
@@ -28,11 +28,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Skills:** R
 
+<!-- disabled **Collaborators:** [Bernard Tse](https://github.com/bernardtse) disabled -->
+
 ![dummy image](images/dummy.png)
 
 ---
 
-## 2. Other Projects
+<!-- disabled ## 2. Other Projects
 
 ### Other Dummy 1
 
@@ -44,4 +46,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Skills:** Python
 
-![dummy image](images/dummy.png)
+![dummy image](images/dummy.png) disabled -->
