@@ -10,40 +10,48 @@ This page features:
 
 ## Contents
 1. [Data Projects](#1-data-projects)
-    - [Data Dummy 1](#data-dummy-1) - one-line description
+    - [uob-data-bootcamp](#uob-data-bootcamp) - Data Analytics Bootcamp Assignment Hub 
 
-<!-- disabled 2. [Other Projects](#2-other-projects)
-    - [Other Dummy 1](#other-dummy-1) - one-line description disabled -->
+2. [Other Projects](#2-other-projects)
+    - [llm-rag](#llm-rag) - AI-Powered Multi-Mode RAG App
 
+3. [Other Links](#3-other-links)
 ---
 
-## 1. Data Projects
+# 1. Data Projects
 
-### Data Dummy 1
-**Overview:**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  
-**URL:** [https://github.com/bernardtse](https://github.com/bernardtse)
-
-**Skills:** R
-
-<!-- disabled **Collaborators:** [Bernard Tse](https://github.com/bernardtse) disabled -->
-
-![dummy image](images/dummy.png)
-
----
-
-<!-- disabled ## 2. Other Projects
-
-### Other Dummy 1
+## uob-data-bootcamp
+Data Analytics Bootcamp Assignment Hub
 
 **Overview:**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This repository highlights the journey of my October 2023 cohort through:
+- 4 capstone projects that demonstrate practical, real-world data analysis applications.
+- 17 challenges designed to strengthen analytical skills and problem-solving capabilities.
   
-**URL:** [https://github.com/bernardtse](https://github.com/bernardtse)
+**URL:** [https://github.com/bernardtse/uob-data-bootcamp](https://github.com/bernardtse/uob-data-bootcamp)
 
-**Skills:** Python
+**Skills:** Refer to individual projects.
 
-![dummy image](images/dummy.png) disabled -->
+---
+
+# 2. Other Projects
+
+## llm-rag
+AI-Powered Multi-Mode RAG App
+
+**Overview:**
+
+This project provides a Python application built using `Streamlit`, `ChromaDB`, and `Ollama`. It allows users to upload multiple file formats (TXT, MD, PDF, DOCX, ODT, RTF), scrape web pages, and perform queries on extracted content using powerful large language models (LLM).
+
+This repository simplifies the process of extracting text content from various documents and webpages, storing it in a vector database (ChromaDB), and using AI models for retrieval-augmented generation (RAG) to enhance querying accuracy.
+  
+**URL:** [https://github.com/bernardtse/llm-rag](https://github.com/bernardtse/llm-rag)
+
+**Skills:** Python, BeautifulSoup, LangChain, ChromaDB, Ollama, Streamlit
+
+![llm-rag](images/repos/llm-rag/llm_rag.png)
+
+# 3. Other Links
+- My Data Analytics Portfolio: [https://bernardtse.github.io](https://bernardtse.github.io)
+- My LinkedIn Profile: [https://www.linkedin.com/in/tsebernard](https://www.linkedin.com/in/tsebernard)
