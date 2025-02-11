@@ -53,5 +53,5 @@ This repository simplifies the process of extracting text content from various d
 ![llm-rag](images/repos/llm-rag/llm_rag.png)
 
 # 3. Other Links
-- My Data Analytics Portfolio: [https://bernardtse.github.io](https://bernardtse.github.io)
-- My LinkedIn Profile: [https://www.linkedin.com/in/tsebernard](https://www.linkedin.com/in/tsebernard)
+- Data Analytics Portfolio: [https://bernardtse.github.io](https://bernardtse.github.io)
+- LinkedIn Profile: [https://www.linkedin.com/in/tsebernard](https://www.linkedin.com/in/tsebernard)
