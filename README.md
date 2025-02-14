@@ -1,6 +1,6 @@
 # My Personal Projects
 
-Welcome to My Project Hub! This is a one-stop destination for exploring all of my personal GitHub projects. Here, you’ll find a diverse range of repositories, from innovative experiments to fully functional applications. Whether you’re looking to collaborate, learn, or simply browse, you’ll find everything organised and easy to navigate. Each project is accompanied by detailed documentation to help you get started quickly. Explore and dive into the code!
+Welcome to My Personal Projects Hub! This is a one-stop destination for exploring all of my personal GitHub projects. Here, you’ll find a diverse range of repositories, from innovative experiments to fully functional applications. Whether you’re looking to collaborate, learn, or simply browse, you’ll find everything organised and easy to navigate. Each project is accompanied by detailed documentation to help you get started quickly. Explore and dive into the code!
 
 This page features:
 - Summaries of each project.
@@ -10,7 +10,7 @@ This page features:
 
 ## Contents
 1. [Data Projects](#1-data-projects)
-    - [uob-data-bootcamp](#uob-data-bootcamp) - Data Analytics Bootcamp Assignment Hub 
+    - [uob-data-bootcamp](#uob-data-bootcamp) - Data Analytics Bootcamp Assignments Hub 
 
 2. [Other Projects](#2-other-projects)
     - [llm-rag](#llm-rag) - AI-Powered Multi-Mode RAG App
@@ -21,7 +21,7 @@ This page features:
 # 1. Data Projects
 
 ## uob-data-bootcamp
-Data Analytics Bootcamp Assignment Hub
+Data Analytics Bootcamp Assignments Hub
 
 **Overview:**
 
