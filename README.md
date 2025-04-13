@@ -1,6 +1,7 @@
-# My Personal Projects
+# personal-projects
+Tse's Personal Projects
 
-Welcome to My Personal Projects Hub! This is a one-stop destination for exploring all of my personal GitHub projects. Here, you’ll find a diverse range of repositories, from innovative experiments to fully functional applications. Whether you’re looking to collaborate, learn, or simply browse, you’ll find everything organised and easy to navigate. Each project is accompanied by detailed documentation to help you get started quickly. Explore and dive into the code!
+Welcome to my Personal Projects Hub! This is a one-stop destination for exploring all of my personal GitHub projects. Here, you’ll find a diverse range of repositories, from innovative experiments to fully functional applications. Whether you’re looking to collaborate, learn, or simply browse, you’ll find everything organised and easy to navigate. Each project is accompanied by detailed documentation to help you get started quickly. Explore and dive into the code!
 
 This page features:
 - Summaries of each project.
@@ -11,11 +12,14 @@ This page features:
 ## Contents
 1. [Data Projects](#1-data-projects)
     - [uob-data-bootcamp](#uob-data-bootcamp) - Data Analytics Bootcamp Assignments Hub 
+    - [starwars-data-explorer](#starwars-data-explorer) - R Shiny app to explore Star Wars characters
+    - [amazon-sales-dashboard](#amazon-sales-dashboard) - Power BI Visualisation of Amazon Sales Data
 
 2. [Other Projects](#2-other-projects)
     - [llm-rag](#llm-rag) - AI-Powered Multi-Mode RAG App
 
 3. [Other Links](#3-other-links)
+
 ---
 
 # 1. Data Projects
@@ -32,6 +36,40 @@ This repository highlights the journey of my October 2023 cohort through:
 **URL:** [https://github.com/bernardtse/uob-data-bootcamp](https://github.com/bernardtse/uob-data-bootcamp)
 
 **Skills:** Refer to individual projects.
+
+---
+
+## starwars-data-explorer
+R Shiny app to explore Star Wars characters
+
+**Overview:**
+
+Star Wars Data Explorer an interactive Shiny app designed to allow users to explore and analyse various characteristics of Star Wars characters, including their species, sex, height and weight. The app provides several features such as visualising the relationship between height and weight, and conducting chi-squared tests to explore correlations among sex, height and weight.
+
+This project aims to make Star Wars data more accessible and engaging through dynamic visualisations and statistical tests. By filtering the dataset based on species and analysing relationships, users can dive deeper into the characteristics of their favourite characters.
+  
+**URL:** [https://github.com/bernardtse/starwars-data-explorer](https://github.com/bernardtse/starwars-data-explorer)
+
+**Skills:** R, Shiny, dplyr, tidyr, ggplot2, plotly
+
+![starwars-data-explorer](images/repos/starwars-data-explorer/starwars_explorer.png)
+
+---
+
+## amazon-sales-dashboard
+Power BI Visualisation of Amazon Sales Data
+
+**Overview:**
+
+This project contains the Power BI visualisations for analysing the [Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset) sourced from Kaggle. The dataset consists of over 1,000+ products scraped from Amazon India in January 2023, including details on product categories, ratings, prices, and reviews.
+
+The goal of this project is to provide insights into sales estimates, revenue projections, pricing strategies, and category performance using interactive Power BI dashboards.
+  
+**URL:** [https://github.com/bernardtse/amazon-sales-dashboard](https://github.com/bernardtse/amazon-sales-dashboard)
+
+**Skills:** Power BI, Python, pandas, TextBlob
+
+![amazon-sales-dashboard](images/repos/amazon-sales-dashboard/powerbi.png)
 
 ---
 
