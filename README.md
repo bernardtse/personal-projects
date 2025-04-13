@@ -12,8 +12,8 @@ This page features:
 ## Contents
 1. [Data Projects](#1-data-projects)
     - [uob-data-bootcamp](#uob-data-bootcamp) - Data Analytics Bootcamp Assignments Hub 
-    - [starwars-data-explorer](#starwars-data-explorer) - R Shiny app to explore Star Wars characters
-    - [amazon-sales-dashboard](#amazon-sales-dashboard) - Power BI Visualisation of Amazon Sales Data
+    - [starwars-data-explorer](#starwars-data-explorer) - R Shiny App to Explore Star Wars Characters
+    - [amazon-sales-dashboard](#amazon-sales-dashboard) - Power BI Visualisation on Amazon Sales Data
 
 2. [Other Projects](#2-other-projects)
     - [llm-rag](#llm-rag) - AI-Powered Multi-Mode RAG App
@@ -40,7 +40,7 @@ This repository highlights the journey of my October 2023 cohort through:
 ---
 
 ## starwars-data-explorer
-R Shiny app to explore Star Wars characters
+R Shiny App to Explore Star Wars Characters
 
 **Overview:**
 
@@ -57,7 +57,7 @@ This project aims to make Star Wars data more accessible and engaging through dy
 ---
 
 ## amazon-sales-dashboard
-Power BI Visualisation of Amazon Sales Data
+Power BI Visualisation on Amazon Sales Data
 
 **Overview:**
 
