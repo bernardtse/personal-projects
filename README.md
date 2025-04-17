@@ -11,7 +11,7 @@ This page features:
 
 ## Contents
 1. [Data Projects](#1-data-projects)
-    - [uob-data-bootcamp](#uob-data-bootcamp) - Data Analytics Bootcamp Assignments Hub 
+    - [uob-data-bootcamp](#uob-data-bootcamp) - University of Birmingham Data Analytics Bootcamp Assignments Hub 
     - [starwars-data-explorer](#starwars-data-explorer) - R Shiny App to Explore Star Wars Characters
     - [amazon-sales-dashboard](#amazon-sales-dashboard) - Power BI Visualisation on Amazon Sales Data
 
@@ -25,7 +25,7 @@ This page features:
 # 1. Data Projects
 
 ## uob-data-bootcamp
-Data Analytics Bootcamp Assignments Hub
+University of Birmingham Data Analytics Bootcamp Assignments Hub
 
 **Overview:**
 
