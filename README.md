@@ -14,7 +14,7 @@ This page features:
     - [uob-data-bootcamp](#uob-data-bootcamp) - University of Birmingham Data Analytics Bootcamp Assignments Hub 
     - [starwars-data-explorer](#starwars-data-explorer) - R Shiny App to Explore Star Wars Characters
     - [amazon-sales-dashboard](#amazon-sales-dashboard) - Power BI Visualisation on Amazon Sales Data
-    - [educational-establishments](#educational-establishments) - An interactive web project visualising educational establishments across England
+    - [educational-establishments](#educational-establishments) - Web project visualising educational establishments across England
 
 2. [Other Projects](#2-other-projects)
     - [llm-rag](#llm-rag) - AI-Powered Multi-Mode RAG App
