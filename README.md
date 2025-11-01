@@ -14,6 +14,7 @@ This page features:
     - [uob-data-bootcamp](#uob-data-bootcamp) - University of Birmingham Data Analytics Bootcamp Assignments Hub 
     - [starwars-data-explorer](#starwars-data-explorer) - R Shiny App to Explore Star Wars Characters
     - [amazon-sales-dashboard](#amazon-sales-dashboard) - Power BI Visualisation on Amazon Sales Data
+    - [educational-establishments](#educational-establishments) - An interactive web project visualising educational establishments across England
 
 2. [Other Projects](#2-other-projects)
     - [llm-rag](#llm-rag) - AI-Powered Multi-Mode RAG App
@@ -70,6 +71,21 @@ The goal of this project is to provide insights into sales estimates, revenue pr
 **Skills:** Power BI, Python, pandas, TextBlob
 
 ![amazon-sales-dashboard](images/repos/amazon-sales-dashboard/powerbi.png)
+
+---
+
+## educational-establishments
+
+**Overview:**
+
+This project visualises educational establishments in England through **three separate web pages**, one for each data format: **JSON**, **GeoJSON**, and **CSV**.  
+Each page provides the same interface and functions, allowing users to explore and compare how different data types can be fetched and visualised on an interactive map.  
+
+**URL:** [http://github.com/bernardtse/educational-establishments](http://github.com/bernardtse/educational-establishments)
+
+**Skills:** HTML, CSS, JavaScript, Leaflet.js
+
+![educational-establishments](images/repos/educational-establishments/eduleaflet.png)
 
 ---
 
