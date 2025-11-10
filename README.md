@@ -104,7 +104,7 @@ This repository simplifies the process of extracting text content from various d
 
 **Skills:** Python, BeautifulSoup, LangChain, ChromaDB, Ollama, Streamlit
 
-![llm-rag](images/repos/llm-rag/llm_rag.png)
+![llm-rag](images/repos/llm-rag/llm-rag.png)
 
 # 3. Other Links
 - Data Analytics Portfolio: [https://bernardtse.github.io](https://bernardtse.github.io)
