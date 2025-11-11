@@ -95,13 +95,13 @@ Each page provides the same interface and functions, allowing users to explore a
 
 **Overview:**
 
-This project is a **prototype Data Analytics MCP Tool server** that integrates deterministic Python analysis with LLM-driven interpretation, demonstrating a lightweight, controlled workflow through the MCP protocol.
+This project is a **prototype Data Analytics MCP Tool server** that integrates deterministic Python analysis with LLM-driven interpretation, demonstrating a lightweight, controlled workflow through the Model Context Protocol (MCP).
 
 The server loads **CSV**, **row-based JSON**, or **row-based YAML** datasets, performs simple **python analysis**, outputs in plain text, and utilises **LLM** to provide a short summary of insights.
 
 **URL:** [https://github.com/bernardtse/data-mcp-server](https://github.com/bernardtse/data-mcp-server)
 
-**Skills:** Python, Model Context Protocol (MCP), FastMCP, pandas, PyYAML, uv
+**Skills:** Python, MCP, FastMCP, pandas, PyYAML, uv
 
 ![datamcp](images/repos/data-mcp-server/datamcp.png)
 
