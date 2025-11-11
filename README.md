@@ -1,5 +1,6 @@
 # personal-projects
-My Personal Projects
+
+**[Bernard Tse's](https://github.com/bernardtse) Personal Projects**
 
 Welcome to my **Personal Projects Hub**! This is a one-stop destination for exploring all of my personal GitHub projects. Here, you’ll find a diverse range of repositories, from innovative experiments to fully functional applications. Whether you’re looking to collaborate, learn, or simply browse, you’ll find everything organised and easy to navigate. Each project is accompanied by detailed documentation to help you get started quickly. Explore and dive into the code!
 
@@ -15,7 +16,7 @@ This page features:
     - [starwars-data-explorer](#starwars-data-explorer) - R Shiny App to Explore Star Wars Characters
     - [amazon-sales-dashboard](#amazon-sales-dashboard) - Power BI Visualisation on Amazon Sales Data
     - [educational-establishments](#educational-establishments) - Web project visualising educational establishments across England
-    - [data-mcp-server]() - Simple Python Data Analytics MCP Tool Server
+    - [data-mcp-server](#data-mcp-server) - Simple Python Data Analytics MCP Tool Server
 
 2. [Other Projects](#2-other-projects)
     - [llm-rag](#llm-rag) - AI-Powered Multi-Mode RAG App
