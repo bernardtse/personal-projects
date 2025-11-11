@@ -1,6 +1,6 @@
 # personal-projects
 
-**[Bernard Tse's](https://github.com/bernardtse) Personal Projects**
+**[Bernard Tse](https://github.com/bernardtse)'s Personal Projects**
 
 Welcome to my **Personal Projects Hub**! This is a one-stop destination for exploring all of my personal GitHub projects. Here, you’ll find a diverse range of repositories, from innovative experiments to fully functional applications. Whether you’re looking to collaborate, learn, or simply browse, you’ll find everything organised and easy to navigate. Each project is accompanied by detailed documentation to help you get started quickly. Explore and dive into the code!
 
